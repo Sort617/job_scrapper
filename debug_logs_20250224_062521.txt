@@ -1,0 +1,404 @@
+2025-02-24 06:25:21,906 - INFO - [Phase: Root Exploration] Starting root exploration
+2025-02-24 06:25:34,056 - INFO - [Phase: Exploration at Depth 0] Visiting: https://justjoin.it/job-offer/it-squad-tester-automatyczny-warszawa-testing
+2025-02-24 06:25:37,847 - INFO - [Phase: Exploration at Depth 0] Saved: https://justjoin.it/job-offer/it-squad-tester-automatyczny-warszawa-testing
+2025-02-24 06:25:40,902 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/fun-crafters-sp-z-o-o--qa-specialist-krakow-testing
+2025-02-24 06:25:44,698 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/fun-crafters-sp-z-o-o--qa-specialist-krakow-testing
+2025-02-24 06:25:47,760 - INFO - [Phase: Exploration at Depth 2] Visiting: https://justjoin.it/job-offer/experis-manpower-group-automation-etl-tester-warszawa-testing
+2025-02-24 06:25:51,518 - INFO - [Phase: Exploration at Depth 2] Saved: https://justjoin.it/job-offer/experis-manpower-group-automation-etl-tester-warszawa-testing
+2025-02-24 06:25:54,564 - INFO - [Phase: Exploration at Depth 3] Visiting: https://justjoin.it/job-offer/n-ix-middle-aqa-engineer-krakow-testing
+2025-02-24 06:25:58,310 - INFO - [Phase: Exploration at Depth 3] Saved: https://justjoin.it/job-offer/n-ix-middle-aqa-engineer-krakow-testing
+2025-02-24 06:26:01,340 - INFO - [Phase: Exploration at Depth 4] Visiting: https://justjoin.it/job-offer/mindpal-automated-qa-engineer-gliwice-testing
+2025-02-24 06:26:05,512 - INFO - [Phase: Exploration at Depth 4] Saved: https://justjoin.it/job-offer/mindpal-automated-qa-engineer-gliwice-testing
+2025-02-24 06:26:08,666 - INFO - [Phase: Exploration at Depth 5] Visiting: https://justjoin.it/job-offer/mediporta-sp-z-o-o--tester-manualny-poznan-testing
+2025-02-24 06:26:12,521 - INFO - [Phase: Exploration at Depth 5] Saved: https://justjoin.it/job-offer/mediporta-sp-z-o-o--tester-manualny-poznan-testing
+2025-02-24 06:26:15,541 - INFO - [Phase: Exploration at Depth 6] Visiting: https://justjoin.it/job-offer/intersys-group-qa-leader-wroclaw-testing
+2025-02-24 06:26:19,708 - INFO - [Phase: Exploration at Depth 6] Saved: https://justjoin.it/job-offer/intersys-group-qa-leader-wroclaw-testing
+2025-02-24 06:26:22,738 - INFO - [Phase: Exploration at Depth 7] Visiting: https://justjoin.it/job-offer/link-group-manual-etl-tester-poznan-testing
+2025-02-24 06:26:26,706 - INFO - [Phase: Exploration at Depth 7] Saved: https://justjoin.it/job-offer/link-group-manual-etl-tester-poznan-testing
+2025-02-24 06:26:29,724 - INFO - [Phase: Exploration at Depth 8] Visiting: https://justjoin.it/job-offer/humanit-group-software-tester-sdet-software-developer-engineer-in-test--krakow-testing
+2025-02-24 06:26:34,257 - INFO - [Phase: Exploration at Depth 8] Saved: https://justjoin.it/job-offer/humanit-group-software-tester-sdet-software-developer-engineer-in-test--krakow-testing
+2025-02-24 06:26:37,284 - INFO - [Phase: Exploration at Depth 9] Visiting: https://justjoin.it/job-offer/aplikacje-krytyczne-inzynier-qa-ds-testow-funkcjonalnych-i-integracyjnych-warszawa-testing-507b23ee
+2025-02-24 06:26:41,358 - INFO - [Phase: Exploration at Depth 9] Saved: https://justjoin.it/job-offer/aplikacje-krytyczne-inzynier-qa-ds-testow-funkcjonalnych-i-integracyjnych-warszawa-testing-507b23ee
+2025-02-24 06:26:44,387 - INFO - [Phase: Exploration at Depth 10] Visiting: https://justjoin.it/job-offer/dataedo-qa-engineer-with-sql-warszawa-testing-63159859
+2025-02-24 06:26:48,176 - INFO - [Phase: Exploration at Depth 10] Saved: https://justjoin.it/job-offer/dataedo-qa-engineer-with-sql-warszawa-testing-63159859
+2025-02-24 06:26:51,205 - INFO - [Phase: Exploration at Depth 11] Visiting: https://justjoin.it/job-offer/experis-manpower-group-tester-automatyzujacy-krakow-testing
+2025-02-24 06:26:55,476 - INFO - [Phase: Exploration at Depth 11] Saved: https://justjoin.it/job-offer/experis-manpower-group-tester-automatyzujacy-krakow-testing
+2025-02-24 06:26:58,503 - INFO - [Phase: Exploration at Depth 12] Visiting: https://justjoin.it/job-offer/dataedo-qa-engineer-with-sql-gdansk-testing-f8ebc36d
+2025-02-24 06:27:02,322 - INFO - [Phase: Exploration at Depth 12] Saved: https://justjoin.it/job-offer/dataedo-qa-engineer-with-sql-gdansk-testing-f8ebc36d
+2025-02-24 06:27:05,367 - INFO - [Phase: Exploration at Depth 13] Visiting: https://justjoin.it/job-offer/monogo-sp-z-o-o--automation-quality-assurance-specialist-lublin-testing-ad66c793
+2025-02-24 06:27:09,338 - INFO - [Phase: Exploration at Depth 13] Saved: https://justjoin.it/job-offer/monogo-sp-z-o-o--automation-quality-assurance-specialist-lublin-testing-ad66c793
+2025-02-24 06:27:12,365 - INFO - [Phase: Exploration at Depth 14] Visiting: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-opole-testing
+2025-02-24 06:27:16,923 - INFO - [Phase: Exploration at Depth 14] Saved: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-opole-testing
+2025-02-24 06:27:20,102 - INFO - [Phase: Exploration at Depth 15] Visiting: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer--odz-testing-baadb00c
+2025-02-24 06:27:24,105 - INFO - [Phase: Exploration at Depth 15] Saved: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer--odz-testing-baadb00c
+2025-02-24 06:27:27,134 - INFO - [Phase: Exploration at Depth 16] Visiting: https://justjoin.it/job-offer/qodeca-qa-engineer-katowice-testing
+2025-02-24 06:27:31,017 - INFO - [Phase: Exploration at Depth 16] Saved: https://justjoin.it/job-offer/qodeca-qa-engineer-katowice-testing
+2025-02-24 06:27:34,050 - INFO - [Phase: Exploration at Depth 17] Visiting: https://justjoin.it/job-offer/infoprojekt-test-engineer-gdansk-testing
+2025-02-24 06:27:37,816 - INFO - [Phase: Exploration at Depth 17] Saved: https://justjoin.it/job-offer/infoprojekt-test-engineer-gdansk-testing
+2025-02-24 06:27:40,866 - INFO - [Phase: Exploration at Depth 18] Visiting: https://justjoin.it/job-offer/hn-experts-test-automation-engineer-with-german-warszawa-testing-fc2ff233
+2025-02-24 06:27:44,895 - INFO - [Phase: Exploration at Depth 18] Saved: https://justjoin.it/job-offer/hn-experts-test-automation-engineer-with-german-warszawa-testing-fc2ff233
+2025-02-24 06:27:48,085 - INFO - [Phase: Exploration at Depth 19] Visiting: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--krakow-testing
+2025-02-24 06:27:51,787 - INFO - [Phase: Exploration at Depth 19] Saved: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--krakow-testing
+2025-02-24 06:27:54,832 - INFO - [Phase: Exploration at Depth 20] Visiting: https://justjoin.it/job-offer/htd-automation-software-tester-python-playwright--lodz-testing
+2025-02-24 06:27:58,552 - INFO - [Phase: Exploration at Depth 20] Saved: https://justjoin.it/job-offer/htd-automation-software-tester-python-playwright--lodz-testing
+2025-02-24 06:28:01,570 - INFO - [Phase: Exploration at Depth 21] Visiting: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--gdansk-testing
+2025-02-24 06:28:05,302 - INFO - [Phase: Exploration at Depth 21] Saved: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--gdansk-testing
+2025-02-24 06:28:08,347 - INFO - [Phase: Exploration at Depth 22] Visiting: https://justjoin.it/job-offer/cognizant-tech-solutions-test-automation-engineer-with-german-wroclaw-testing
+2025-02-24 06:28:12,337 - INFO - [Phase: Exploration at Depth 22] Saved: https://justjoin.it/job-offer/cognizant-tech-solutions-test-automation-engineer-with-german-wroclaw-testing
+2025-02-24 06:28:15,367 - INFO - [Phase: Exploration at Depth 23] Visiting: https://justjoin.it/job-offer/invo-tester-manualny-krakow-testing-e1994801
+2025-02-24 06:28:19,338 - INFO - [Phase: Exploration at Depth 23] Saved: https://justjoin.it/job-offer/invo-tester-manualny-krakow-testing-e1994801
+2025-02-24 06:28:22,369 - INFO - [Phase: Exploration at Depth 24] Visiting: https://justjoin.it/job-offer/amsterdam-standard-qa-automation-engineer-wroclaw-testing
+2025-02-24 06:28:26,033 - INFO - [Phase: Exploration at Depth 24] Saved: https://justjoin.it/job-offer/amsterdam-standard-qa-automation-engineer-wroclaw-testing
+2025-02-24 06:28:29,070 - INFO - [Phase: Exploration at Depth 25] Visiting: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--rzeszow-testing
+2025-02-24 06:28:33,399 - INFO - [Phase: Exploration at Depth 25] Saved: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--rzeszow-testing
+2025-02-24 06:28:36,431 - INFO - [Phase: Exploration at Depth 26] Visiting: https://justjoin.it/job-offer/cognizant-tech-solutions-test-automation-engineer-with-german-gdansk-testing
+2025-02-24 06:28:40,439 - INFO - [Phase: Exploration at Depth 26] Saved: https://justjoin.it/job-offer/cognizant-tech-solutions-test-automation-engineer-with-german-gdansk-testing
+2025-02-24 06:28:43,465 - INFO - [Phase: Exploration at Depth 27] Visiting: https://justjoin.it/job-offer/punks-com-tester-automatyczny-wroclaw-testing
+2025-02-24 06:28:47,467 - INFO - [Phase: Exploration at Depth 27] Saved: https://justjoin.it/job-offer/punks-com-tester-automatyczny-wroclaw-testing
+2025-02-24 06:28:50,498 - INFO - [Phase: Exploration at Depth 28] Visiting: https://justjoin.it/job-offer/link-group-qa-automation-analyst-krakow-testing
+2025-02-24 06:28:54,149 - INFO - [Phase: Exploration at Depth 28] Saved: https://justjoin.it/job-offer/link-group-qa-automation-analyst-krakow-testing
+2025-02-24 06:28:57,206 - INFO - [Phase: Exploration at Depth 29] Visiting: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-lublin-testing
+2025-02-24 06:29:01,149 - INFO - [Phase: Exploration at Depth 29] Saved: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-lublin-testing
+2025-02-24 06:29:04,194 - INFO - [Phase: Exploration at Depth 30] Visiting: https://justjoin.it/job-offer/itds-automation-tester-c-selenium--lodz-testing
+2025-02-24 06:29:07,948 - INFO - [Phase: Exploration at Depth 30] Saved: https://justjoin.it/job-offer/itds-automation-tester-c-selenium--lodz-testing
+2025-02-24 06:29:10,984 - INFO - [Phase: Exploration at Depth 31] Visiting: https://justjoin.it/job-offer/invo-tester-manualny-warszawa-testing-2851b91e
+2025-02-24 06:29:14,753 - INFO - [Phase: Exploration at Depth 31] Saved: https://justjoin.it/job-offer/invo-tester-manualny-warszawa-testing-2851b91e
+2025-02-24 06:29:17,797 - INFO - [Phase: Exploration at Depth 32] Visiting: https://justjoin.it/job-offer/intersys-group-qa-leader-rzeszow-testing
+2025-02-24 06:29:21,678 - INFO - [Phase: Exploration at Depth 32] Saved: https://justjoin.it/job-offer/intersys-group-qa-leader-rzeszow-testing
+2025-02-24 06:29:24,698 - INFO - [Phase: Exploration at Depth 33] Visiting: https://justjoin.it/job-offer/intersys-group-qa-leader-krakow-testing
+2025-02-24 06:29:28,566 - INFO - [Phase: Exploration at Depth 33] Saved: https://justjoin.it/job-offer/intersys-group-qa-leader-krakow-testing
+2025-02-24 06:29:31,611 - INFO - [Phase: Exploration at Depth 34] Visiting: https://justjoin.it/job-offer/qodeca-qa-engineer-gdansk-testing
+2025-02-24 06:29:35,446 - INFO - [Phase: Exploration at Depth 34] Saved: https://justjoin.it/job-offer/qodeca-qa-engineer-gdansk-testing
+2025-02-24 06:29:38,479 - INFO - [Phase: Exploration at Depth 35] Visiting: https://justjoin.it/job-offer/experis-manpower-group-learning-system-ux-accessibility-qa-specialist-krakow-testing
+2025-02-24 06:29:42,230 - INFO - [Phase: Exploration at Depth 35] Saved: https://justjoin.it/job-offer/experis-manpower-group-learning-system-ux-accessibility-qa-specialist-krakow-testing
+2025-02-24 06:29:45,265 - INFO - [Phase: Exploration at Depth 36] Visiting: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-ruda-slaska-testing-e59fb0d4
+2025-02-24 06:29:49,133 - INFO - [Phase: Exploration at Depth 36] Saved: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-ruda-slaska-testing-e59fb0d4
+2025-02-24 06:29:52,160 - INFO - [Phase: Exploration at Depth 37] Visiting: https://justjoin.it/job-offer/cognizant-tech-solutions-test-automation-engineer-with-german-krakow-testing
+2025-02-24 06:30:13,182 - INFO - [Phase: Exploration at Depth 37] Saved: https://justjoin.it/job-offer/cognizant-tech-solutions-test-automation-engineer-with-german-krakow-testing
+2025-02-24 06:30:16,210 - INFO - [Phase: Exploration at Depth 38] Visiting: https://justjoin.it/job-offer/n-ix-middle-aqa-engineer-warszawa-testing
+2025-02-24 06:30:20,033 - INFO - [Phase: Exploration at Depth 38] Saved: https://justjoin.it/job-offer/n-ix-middle-aqa-engineer-warszawa-testing
+2025-02-24 06:30:23,062 - INFO - [Phase: Exploration at Depth 39] Visiting: https://justjoin.it/job-offer/invo-tester-manualny-wroclaw-testing-d0962b7a
+2025-02-24 06:30:26,764 - INFO - [Phase: Exploration at Depth 39] Saved: https://justjoin.it/job-offer/invo-tester-manualny-wroclaw-testing-d0962b7a
+2025-02-24 06:30:29,810 - INFO - [Phase: Exploration at Depth 39] Visiting: https://justjoin.it/job-offer/dataedo-qa-engineer-with-sql-krakow-testing-86ba34ce
+2025-02-24 06:30:33,494 - INFO - [Phase: Exploration at Depth 39] Saved: https://justjoin.it/job-offer/dataedo-qa-engineer-with-sql-krakow-testing-86ba34ce
+2025-02-24 06:30:36,525 - INFO - [Phase: Exploration at Depth 40] Visiting: https://justjoin.it/job-offer/humanit-group-software-tester-sdet-software-developer-engineer-in-test--wroclaw-testing
+2025-02-24 06:30:40,244 - INFO - [Phase: Exploration at Depth 40] Saved: https://justjoin.it/job-offer/humanit-group-software-tester-sdet-software-developer-engineer-in-test--wroclaw-testing
+2025-02-24 06:30:43,293 - INFO - [Phase: Exploration at Depth 41] Visiting: https://justjoin.it/job-offer/link-group-tester-automatyzujacy-gdansk-testing
+2025-02-24 06:30:47,045 - INFO - [Phase: Exploration at Depth 41] Saved: https://justjoin.it/job-offer/link-group-tester-automatyzujacy-gdansk-testing
+2025-02-24 06:30:50,078 - INFO - [Phase: Exploration at Depth 42] Visiting: https://justjoin.it/job-offer/cognizant-tech-solutions-test-automation-engineer-with-german-poznan-testing
+2025-02-24 06:30:53,809 - INFO - [Phase: Exploration at Depth 42] Saved: https://justjoin.it/job-offer/cognizant-tech-solutions-test-automation-engineer-with-german-poznan-testing
+2025-02-24 06:30:56,859 - INFO - [Phase: Exploration at Depth 43] Visiting: https://justjoin.it/job-offer/cognizant-tech-solutions-test-automation-engineer-with-german-warszawa-testing
+2025-02-24 06:31:00,660 - INFO - [Phase: Exploration at Depth 43] Saved: https://justjoin.it/job-offer/cognizant-tech-solutions-test-automation-engineer-with-german-warszawa-testing
+2025-02-24 06:31:03,711 - INFO - [Phase: Exploration at Depth 44] Visiting: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-wroc-aw-testing-c58e43e3
+2025-02-24 06:31:07,363 - INFO - [Phase: Exploration at Depth 44] Saved: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-wroc-aw-testing-c58e43e3
+2025-02-24 06:31:10,407 - INFO - [Phase: Exploration at Depth 45] Visiting: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-dabrowa-gornicza-testing-68fc6409
+2025-02-24 06:31:14,551 - INFO - [Phase: Exploration at Depth 45] Saved: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-dabrowa-gornicza-testing-68fc6409
+2025-02-24 06:31:17,591 - INFO - [Phase: Exploration at Depth 46] Visiting: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-zabrze-testing
+2025-02-24 06:31:21,362 - INFO - [Phase: Exploration at Depth 46] Saved: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-automation-engineer-zabrze-testing
+2025-02-24 06:31:24,398 - INFO - [Phase: Exploration at Depth 47] Visiting: https://justjoin.it/job-offer/dataedo-qa-engineer-with-sql-wroclaw-testing-ddd92db7
+2025-02-24 06:31:28,275 - INFO - [Phase: Exploration at Depth 47] Saved: https://justjoin.it/job-offer/dataedo-qa-engineer-with-sql-wroclaw-testing-ddd92db7
+2025-02-24 06:31:31,325 - INFO - [Phase: Exploration at Depth 48] Visiting: https://justjoin.it/job-offer/experis-manpower-group-tester-automatyzujacy-wroclaw-testing
+2025-02-24 06:31:35,281 - INFO - [Phase: Exploration at Depth 48] Saved: https://justjoin.it/job-offer/experis-manpower-group-tester-automatyzujacy-wroclaw-testing
+2025-02-24 06:31:38,312 - INFO - [Phase: Exploration at Depth 49] Visiting: https://justjoin.it/job-offer/link-group-manual-etl-tester-wroclaw-testing
+2025-02-24 06:31:42,279 - INFO - [Phase: Exploration at Depth 49] Saved: https://justjoin.it/job-offer/link-group-manual-etl-tester-wroclaw-testing
+2025-02-24 06:31:45,324 - INFO - [Phase: Exploration at Depth 50] Visiting: https://justjoin.it/job-offer/fabrity-sp-z-o-o--tester-automatyczny-gdansk-testing
+2025-02-24 06:31:49,125 - INFO - [Phase: Exploration at Depth 50] Saved: https://justjoin.it/job-offer/fabrity-sp-z-o-o--tester-automatyczny-gdansk-testing
+2025-02-24 06:31:52,157 - INFO - [Phase: Exploration at Depth 51] Visiting: https://justjoin.it/job-offer/fabrity-sp-z-o-o--tester-automatyczny-lublin-testing
+2025-02-24 06:31:56,156 - INFO - [Phase: Exploration at Depth 51] Saved: https://justjoin.it/job-offer/fabrity-sp-z-o-o--tester-automatyczny-lublin-testing
+2025-02-24 06:31:59,228 - INFO - [Phase: Exploration at Depth 52] Visiting: https://justjoin.it/job-offer/n-ix-middle-aqa-engineer-wroclaw-testing
+2025-02-24 06:32:02,912 - INFO - [Phase: Exploration at Depth 52] Saved: https://justjoin.it/job-offer/n-ix-middle-aqa-engineer-wroclaw-testing
+2025-02-24 06:32:05,945 - INFO - [Phase: Exploration at Depth 53] Visiting: https://justjoin.it/job-offer/fabrity-sp-z-o-o--tester-automatyczny-warszawa-testing
+2025-02-24 06:32:09,691 - INFO - [Phase: Exploration at Depth 53] Saved: https://justjoin.it/job-offer/fabrity-sp-z-o-o--tester-automatyczny-warszawa-testing
+2025-02-24 06:32:12,772 - INFO - [Phase: Exploration at Depth 53] Visiting: https://justjoin.it/job-offer/makeitright-tester-manualny-3076e02f-3d07-49c6-aed3-0d4dafb8465e
+2025-02-24 06:32:16,477 - INFO - [Phase: Exploration at Depth 53] Saved: https://justjoin.it/job-offer/makeitright-tester-manualny-3076e02f-3d07-49c6-aed3-0d4dafb8465e
+2025-02-24 06:32:19,522 - INFO - [Phase: Exploration at Depth 54] Visiting: https://justjoin.it/job-offer/intersys-group-qa-leader-warszawa-testing
+2025-02-24 06:32:23,175 - INFO - [Phase: Exploration at Depth 54] Saved: https://justjoin.it/job-offer/intersys-group-qa-leader-warszawa-testing
+2025-02-24 06:32:26,204 - INFO - [Phase: Exploration at Depth 55] Visiting: https://justjoin.it/job-offer/qodeca-qa-engineer-warszawa-testing
+2025-02-24 06:32:30,076 - INFO - [Phase: Exploration at Depth 55] Saved: https://justjoin.it/job-offer/qodeca-qa-engineer-warszawa-testing
+2025-02-24 06:32:33,122 - INFO - [Phase: Exploration at Depth 56] Visiting: https://justjoin.it/job-offer/experis-manpower-group-tester-automatyzujacy-gdansk-testing
+2025-02-24 06:32:36,810 - INFO - [Phase: Exploration at Depth 56] Saved: https://justjoin.it/job-offer/experis-manpower-group-tester-automatyzujacy-gdansk-testing
+2025-02-24 06:32:39,869 - INFO - [Phase: Exploration at Depth 57] Visiting: https://justjoin.it/job-offer/link-group-tester-automatyzujacy-krakow-testing
+2025-02-24 06:32:43,511 - INFO - [Phase: Exploration at Depth 57] Saved: https://justjoin.it/job-offer/link-group-tester-automatyzujacy-krakow-testing
+2025-02-24 06:32:46,551 - INFO - [Phase: Exploration at Depth 58] Visiting: https://justjoin.it/job-offer/qodeca-qa-engineer-szczecin-testing
+2025-02-24 06:32:50,470 - INFO - [Phase: Exploration at Depth 58] Saved: https://justjoin.it/job-offer/qodeca-qa-engineer-szczecin-testing
+2025-02-24 06:32:53,511 - INFO - [Phase: Exploration at Depth 59] Visiting: https://justjoin.it/job-offer/fabrity-sp-z-o-o--tester-automatyczny-lodz-testing
+2025-02-24 06:32:57,156 - INFO - [Phase: Exploration at Depth 59] Saved: https://justjoin.it/job-offer/fabrity-sp-z-o-o--tester-automatyczny-lodz-testing
+2025-02-24 06:33:00,202 - INFO - [Phase: Exploration at Depth 60] Visiting: https://justjoin.it/job-offer/hn-experts-test-automation-engineer-with-german-bydgoszcz-testing
+2025-02-24 06:33:03,923 - INFO - [Phase: Exploration at Depth 60] Saved: https://justjoin.it/job-offer/hn-experts-test-automation-engineer-with-german-bydgoszcz-testing
+2025-02-24 06:33:06,968 - INFO - [Phase: Exploration at Depth 61] Visiting: https://justjoin.it/job-offer/experis-manpower-group-senior-test-engineer-java-kotlin--lodz-testing
+2025-02-24 06:33:10,753 - INFO - [Phase: Exploration at Depth 61] Saved: https://justjoin.it/job-offer/experis-manpower-group-senior-test-engineer-java-kotlin--lodz-testing
+2025-02-24 06:33:13,793 - INFO - [Phase: Exploration at Depth 62] Visiting: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--poznan-testing
+2025-02-24 06:33:17,904 - INFO - [Phase: Exploration at Depth 62] Saved: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--poznan-testing
+2025-02-24 06:33:20,953 - INFO - [Phase: Exploration at Depth 63] Visiting: https://justjoin.it/job-offer/link-group-automation-tester-gdansk-testing-6b45698e
+2025-02-24 06:33:24,855 - INFO - [Phase: Exploration at Depth 63] Saved: https://justjoin.it/job-offer/link-group-automation-tester-gdansk-testing-6b45698e
+2025-02-24 06:33:27,900 - INFO - [Phase: Exploration at Depth 61] Visiting: https://justjoin.it/job-offer/fabrity-sp-z-o-o--tester-automatyczny-krakow-testing
+2025-02-24 06:33:31,508 - INFO - [Phase: Exploration at Depth 61] Saved: https://justjoin.it/job-offer/fabrity-sp-z-o-o--tester-automatyczny-krakow-testing
+2025-02-24 06:33:34,549 - INFO - [Phase: Exploration at Depth 62] Visiting: https://justjoin.it/job-offer/hn-experts-test-automation-engineer-with-german-gdansk-testing
+2025-02-24 06:33:38,674 - INFO - [Phase: Exploration at Depth 62] Saved: https://justjoin.it/job-offer/hn-experts-test-automation-engineer-with-german-gdansk-testing
+2025-02-24 06:33:41,706 - WARNING - [Phase: Exploration at Depth 58] Timeout for deeper exploration.
+2025-02-24 06:33:41,707 - WARNING - [Phase: Exploration at Depth 57] Timeout for deeper exploration.
+2025-02-24 06:33:41,707 - WARNING - [Phase: Exploration at Depth 56] Timeout for deeper exploration.
+2025-02-24 06:33:41,707 - WARNING - [Phase: Exploration at Depth 55] Timeout for deeper exploration.
+2025-02-24 06:33:41,707 - WARNING - [Phase: Exploration at Depth 54] Timeout for deeper exploration.
+2025-02-24 06:33:41,707 - WARNING - [Phase: Exploration at Depth 53] Timeout for deeper exploration.
+2025-02-24 06:33:41,708 - WARNING - [Phase: Exploration at Depth 52] Timeout for deeper exploration.
+2025-02-24 06:33:41,708 - WARNING - [Phase: Exploration at Depth 51] Timeout for deeper exploration.
+2025-02-24 06:33:41,708 - WARNING - [Phase: Exploration at Depth 50] Timeout for deeper exploration.
+2025-02-24 06:33:41,708 - WARNING - [Phase: Exploration at Depth 48] Timeout for deeper exploration.
+2025-02-24 06:33:41,708 - WARNING - [Phase: Exploration at Depth 47] Timeout for deeper exploration.
+2025-02-24 06:33:41,709 - WARNING - [Phase: Exploration at Depth 46] Timeout for deeper exploration.
+2025-02-24 06:33:41,709 - WARNING - [Phase: Exploration at Depth 45] Timeout for deeper exploration.
+2025-02-24 06:33:41,709 - WARNING - [Phase: Exploration at Depth 44] Timeout for deeper exploration.
+2025-02-24 06:33:41,709 - WARNING - [Phase: Exploration at Depth 43] Timeout for deeper exploration.
+2025-02-24 06:33:41,709 - WARNING - [Phase: Exploration at Depth 42] Timeout for deeper exploration.
+2025-02-24 06:33:41,710 - WARNING - [Phase: Exploration at Depth 41] Timeout for deeper exploration.
+2025-02-24 06:33:41,710 - WARNING - [Phase: Exploration at Depth 40] Timeout for deeper exploration.
+2025-02-24 06:33:41,710 - WARNING - [Phase: Exploration at Depth 39] Timeout for deeper exploration.
+2025-02-24 06:33:41,710 - WARNING - [Phase: Exploration at Depth 37] Timeout for deeper exploration.
+2025-02-24 06:33:41,710 - WARNING - [Phase: Exploration at Depth 36] Timeout for deeper exploration.
+2025-02-24 06:33:41,711 - WARNING - [Phase: Exploration at Depth 35] Timeout for deeper exploration.
+2025-02-24 06:33:41,711 - WARNING - [Phase: Exploration at Depth 34] Timeout for deeper exploration.
+2025-02-24 06:33:41,711 - WARNING - [Phase: Exploration at Depth 33] Timeout for deeper exploration.
+2025-02-24 06:33:41,711 - WARNING - [Phase: Exploration at Depth 32] Timeout for deeper exploration.
+2025-02-24 06:33:41,711 - WARNING - [Phase: Exploration at Depth 31] Timeout for deeper exploration.
+2025-02-24 06:33:41,712 - WARNING - [Phase: Exploration at Depth 30] Timeout for deeper exploration.
+2025-02-24 06:33:41,712 - WARNING - [Phase: Exploration at Depth 29] Timeout for deeper exploration.
+2025-02-24 06:33:41,713 - WARNING - [Phase: Exploration at Depth 28] Timeout for deeper exploration.
+2025-02-24 06:33:41,713 - WARNING - [Phase: Exploration at Depth 27] Timeout for deeper exploration.
+2025-02-24 06:33:41,713 - WARNING - [Phase: Exploration at Depth 26] Timeout for deeper exploration.
+2025-02-24 06:33:41,714 - WARNING - [Phase: Exploration at Depth 25] Timeout for deeper exploration.
+2025-02-24 06:33:41,714 - WARNING - [Phase: Exploration at Depth 24] Timeout for deeper exploration.
+2025-02-24 06:33:41,714 - WARNING - [Phase: Exploration at Depth 23] Timeout for deeper exploration.
+2025-02-24 06:33:41,714 - WARNING - [Phase: Exploration at Depth 22] Timeout for deeper exploration.
+2025-02-24 06:33:41,714 - WARNING - [Phase: Exploration at Depth 21] Timeout for deeper exploration.
+2025-02-24 06:33:41,714 - WARNING - [Phase: Exploration at Depth 20] Timeout for deeper exploration.
+2025-02-24 06:33:41,715 - WARNING - [Phase: Exploration at Depth 19] Timeout for deeper exploration.
+2025-02-24 06:33:41,715 - WARNING - [Phase: Exploration at Depth 18] Timeout for deeper exploration.
+2025-02-24 06:33:41,715 - WARNING - [Phase: Exploration at Depth 17] Timeout for deeper exploration.
+2025-02-24 06:33:41,715 - WARNING - [Phase: Exploration at Depth 16] Timeout for deeper exploration.
+2025-02-24 06:33:41,715 - WARNING - [Phase: Exploration at Depth 15] Timeout for deeper exploration.
+2025-02-24 06:33:41,715 - WARNING - [Phase: Exploration at Depth 14] Timeout for deeper exploration.
+2025-02-24 06:33:41,716 - WARNING - [Phase: Exploration at Depth 13] Timeout for deeper exploration.
+2025-02-24 06:33:41,716 - WARNING - [Phase: Exploration at Depth 12] Timeout for deeper exploration.
+2025-02-24 06:33:41,716 - WARNING - [Phase: Exploration at Depth 11] Timeout for deeper exploration.
+2025-02-24 06:33:41,716 - WARNING - [Phase: Exploration at Depth 10] Timeout for deeper exploration.
+2025-02-24 06:33:41,716 - WARNING - [Phase: Exploration at Depth 9] Timeout for deeper exploration.
+2025-02-24 06:33:41,717 - WARNING - [Phase: Exploration at Depth 8] Timeout for deeper exploration.
+2025-02-24 06:33:41,717 - WARNING - [Phase: Exploration at Depth 7] Timeout for deeper exploration.
+2025-02-24 06:33:41,717 - WARNING - [Phase: Exploration at Depth 6] Timeout for deeper exploration.
+2025-02-24 06:33:41,717 - WARNING - [Phase: Exploration at Depth 5] Timeout for deeper exploration.
+2025-02-24 06:33:41,718 - WARNING - [Phase: Exploration at Depth 4] Timeout for deeper exploration.
+2025-02-24 06:33:41,718 - WARNING - [Phase: Exploration at Depth 3] Timeout for deeper exploration.
+2025-02-24 06:33:41,718 - WARNING - [Phase: Exploration at Depth 2] Timeout for deeper exploration.
+2025-02-24 06:33:41,718 - WARNING - [Phase: Exploration at Depth 1] Timeout for deeper exploration.
+2025-02-24 06:33:41,719 - WARNING - [Phase: Exploration at Depth 0] Timeout for deeper exploration.
+2025-02-24 06:33:41,719 - INFO - [Phase: Exploration at Depth 0] Visiting: https://justjoin.it/job-offer/ikonik-media-inc--qa-engineer-warszawa-testing
+2025-02-24 06:33:45,403 - INFO - [Phase: Exploration at Depth 0] Saved: https://justjoin.it/job-offer/ikonik-media-inc--qa-engineer-warszawa-testing
+2025-02-24 06:33:48,456 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/qualityminds-qa-consultant-krakow-testing-b170e9ba
+2025-02-24 06:33:52,170 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/qualityminds-qa-consultant-krakow-testing-b170e9ba
+2025-02-24 06:33:55,203 - INFO - [Phase: Exploration at Depth 2] Visiting: https://justjoin.it/job-offer/team-up--senior-etl-tester--szczecin-testing
+2025-02-24 06:33:58,940 - INFO - [Phase: Exploration at Depth 2] Saved: https://justjoin.it/job-offer/team-up--senior-etl-tester--szczecin-testing
+2025-02-24 06:34:01,958 - INFO - [Phase: Exploration at Depth 3] Visiting: https://justjoin.it/job-offer/xtm-international-senior-qa-engineer-poznan-testing
+2025-02-24 06:34:05,639 - INFO - [Phase: Exploration at Depth 3] Saved: https://justjoin.it/job-offer/xtm-international-senior-qa-engineer-poznan-testing
+2025-02-24 06:34:08,668 - INFO - [Phase: Exploration at Depth 4] Visiting: https://justjoin.it/job-offer/harvey-nash-technology-senior-qa-engineer-wroclaw-testing
+2025-02-24 06:34:12,274 - INFO - [Phase: Exploration at Depth 4] Saved: https://justjoin.it/job-offer/harvey-nash-technology-senior-qa-engineer-wroclaw-testing
+2025-02-24 06:34:15,302 - INFO - [Phase: Exploration at Depth 5] Visiting: https://justjoin.it/job-offer/vodeno-qa-lead-warszawa-testing
+2025-02-24 06:34:19,003 - INFO - [Phase: Exploration at Depth 5] Saved: https://justjoin.it/job-offer/vodeno-qa-lead-warszawa-testing
+2025-02-24 06:34:22,035 - INFO - [Phase: Exploration at Depth 6] Visiting: https://justjoin.it/job-offer/dcg-senior-data-analytics-qa-with-automation-in-python-warszawa-testing
+2025-02-24 06:34:25,775 - INFO - [Phase: Exploration at Depth 6] Saved: https://justjoin.it/job-offer/dcg-senior-data-analytics-qa-with-automation-in-python-warszawa-testing
+2025-02-24 06:34:28,821 - INFO - [Phase: Exploration at Depth 7] Visiting: https://justjoin.it/job-offer/sopra-steria-test-manager-for-future-needs-katowice-testing
+2025-02-24 06:34:32,892 - INFO - [Phase: Exploration at Depth 7] Saved: https://justjoin.it/job-offer/sopra-steria-test-manager-for-future-needs-katowice-testing
+2025-02-24 06:34:35,917 - INFO - [Phase: Exploration at Depth 8] Visiting: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-architect-ruda-slaska-testing-05f632af
+2025-02-24 06:34:39,691 - INFO - [Phase: Exploration at Depth 8] Saved: https://justjoin.it/job-offer/reply-polska-sp-z-o-o--test-architect-ruda-slaska-testing-05f632af
+2025-02-24 06:34:42,720 - INFO - [Phase: Exploration at Depth 9] Visiting: https://justjoin.it/job-offer/apzumi-qa-senior-specialist-wroclaw-testing
+2025-02-24 06:34:46,823 - INFO - [Phase: Exploration at Depth 9] Saved: https://justjoin.it/job-offer/apzumi-qa-senior-specialist-wroclaw-testing
+2025-02-24 06:34:49,853 - INFO - [Phase: Exploration at Depth 10] Visiting: https://justjoin.it/job-offer/altimetrik-poland-qa-automation-engineer-warszawa-testing-0719ec02
+2025-02-24 06:34:53,901 - INFO - [Phase: Exploration at Depth 10] Saved: https://justjoin.it/job-offer/altimetrik-poland-qa-automation-engineer-warszawa-testing-0719ec02
+2025-02-24 06:34:56,933 - INFO - [Phase: Exploration at Depth 11] Visiting: https://justjoin.it/job-offer/upvanta-sp-z-o-o--java-developer-test-automation-engineer-remote--wroclaw-testing
+2025-02-24 06:35:00,822 - INFO - [Phase: Exploration at Depth 11] Saved: https://justjoin.it/job-offer/upvanta-sp-z-o-o--java-developer-test-automation-engineer-remote--wroclaw-testing
+2025-02-24 06:35:03,867 - INFO - [Phase: Exploration at Depth 12] Visiting: https://justjoin.it/job-offer/crestt-test-environment-manager-100-remote--warszawa-testing
+2025-02-24 06:35:07,612 - INFO - [Phase: Exploration at Depth 12] Saved: https://justjoin.it/job-offer/crestt-test-environment-manager-100-remote--warszawa-testing
+2025-02-24 06:35:10,653 - INFO - [Phase: Exploration at Depth 13] Visiting: https://justjoin.it/job-offer/qualityminds-qa-consultant-poznan-testing
+2025-02-24 06:35:14,655 - INFO - [Phase: Exploration at Depth 13] Saved: https://justjoin.it/job-offer/qualityminds-qa-consultant-poznan-testing
+2025-02-24 06:35:17,683 - INFO - [Phase: Exploration at Depth 14] Visiting: https://justjoin.it/job-offer/pwrteams-lead-qa-engineer-with-german-krakow-testing
+2025-02-24 06:35:21,418 - INFO - [Phase: Exploration at Depth 14] Saved: https://justjoin.it/job-offer/pwrteams-lead-qa-engineer-with-german-krakow-testing
+2025-02-24 06:35:24,449 - INFO - [Phase: Exploration at Depth 15] Visiting: https://justjoin.it/job-offer/espeo-software-senior-qa-automation-engineer-poznan-testing-6906e2e7
+2025-02-24 06:35:28,113 - INFO - [Phase: Exploration at Depth 15] Saved: https://justjoin.it/job-offer/espeo-software-senior-qa-automation-engineer-poznan-testing-6906e2e7
+2025-02-24 06:35:31,147 - INFO - [Phase: Exploration at Depth 16] Visiting: https://justjoin.it/job-offer/upvanta-sp-z-o-o--java-developer-test-automation-engineer-remote--warszawa-testing
+2025-02-24 06:35:35,389 - INFO - [Phase: Exploration at Depth 16] Saved: https://justjoin.it/job-offer/upvanta-sp-z-o-o--java-developer-test-automation-engineer-remote--warszawa-testing
+2025-02-24 06:35:38,416 - INFO - [Phase: Exploration at Depth 17] Visiting: https://justjoin.it/job-offer/speednet-software-automation-tester-warszawa-testing
+2025-02-24 06:35:42,186 - INFO - [Phase: Exploration at Depth 17] Saved: https://justjoin.it/job-offer/speednet-software-automation-tester-warszawa-testing
+2025-02-24 06:35:45,232 - INFO - [Phase: Exploration at Depth 18] Visiting: https://justjoin.it/job-offer/h2b-group-qa-engineer-python-and-java--gdansk-testing
+2025-02-24 06:35:48,933 - INFO - [Phase: Exploration at Depth 18] Saved: https://justjoin.it/job-offer/h2b-group-qa-engineer-python-and-java--gdansk-testing
+2025-02-24 06:35:51,969 - INFO - [Phase: Exploration at Depth 19] Visiting: https://justjoin.it/job-offer/link-group-qa-test-engineer-warszawa-testing
+2025-02-24 06:35:55,818 - INFO - [Phase: Exploration at Depth 19] Saved: https://justjoin.it/job-offer/link-group-qa-test-engineer-warszawa-testing
+2025-02-24 06:35:58,851 - INFO - [Phase: Exploration at Depth 20] Visiting: https://justjoin.it/job-offer/pandadoc-staff-software-developer-in-test-sdet--krakow-testing
+2025-02-24 06:36:02,518 - INFO - [Phase: Exploration at Depth 20] Saved: https://justjoin.it/job-offer/pandadoc-staff-software-developer-in-test-sdet--krakow-testing
+2025-02-24 06:36:05,545 - INFO - [Phase: Exploration at Depth 21] Visiting: https://justjoin.it/job-offer/emagine-polska-test-engineer-lodz-testing
+2025-02-24 06:36:09,380 - INFO - [Phase: Exploration at Depth 21] Saved: https://justjoin.it/job-offer/emagine-polska-test-engineer-lodz-testing
+2025-02-24 06:36:12,415 - INFO - [Phase: Exploration at Depth 22] Visiting: https://justjoin.it/job-offer/happy-team-test-engineer-lodz-testing
+2025-02-24 06:36:16,198 - INFO - [Phase: Exploration at Depth 22] Saved: https://justjoin.it/job-offer/happy-team-test-engineer-lodz-testing
+2025-02-24 06:36:19,232 - INFO - [Phase: Exploration at Depth 23] Visiting: https://justjoin.it/job-offer/apzumi-qa-senior-specialist-krakow-testing
+2025-02-24 06:36:23,045 - INFO - [Phase: Exploration at Depth 23] Saved: https://justjoin.it/job-offer/apzumi-qa-senior-specialist-krakow-testing
+2025-02-24 06:36:26,067 - INFO - [Phase: Exploration at Depth 24] Visiting: https://justjoin.it/job-offer/link-group-qa-test-engineer-wroclaw-testing
+2025-02-24 06:36:29,949 - INFO - [Phase: Exploration at Depth 24] Saved: https://justjoin.it/job-offer/link-group-qa-test-engineer-wroclaw-testing
+2025-02-24 06:36:32,980 - INFO - [Phase: Exploration at Depth 25] Visiting: https://justjoin.it/job-offer/harvey-nash-technology-senior-qa-engineer-lodz-testing
+2025-02-24 06:36:36,598 - INFO - [Phase: Exploration at Depth 25] Saved: https://justjoin.it/job-offer/harvey-nash-technology-senior-qa-engineer-lodz-testing
+2025-02-24 06:36:39,634 - INFO - [Phase: Exploration at Depth 26] Visiting: https://justjoin.it/job-offer/emagine-polska-test-engineer-gdansk-testing
+2025-02-24 06:36:43,613 - INFO - [Phase: Exploration at Depth 26] Saved: https://justjoin.it/job-offer/emagine-polska-test-engineer-gdansk-testing
+2025-02-24 06:36:46,649 - INFO - [Phase: Exploration at Depth 27] Visiting: https://justjoin.it/job-offer/appfire-qa-manager-warszawa-testing-b275e865
+2025-02-24 06:36:50,296 - INFO - [Phase: Exploration at Depth 27] Saved: https://justjoin.it/job-offer/appfire-qa-manager-warszawa-testing-b275e865
+2025-02-24 06:36:53,345 - INFO - [Phase: Exploration at Depth 28] Visiting: https://justjoin.it/job-offer/xtm-international-senior-qa-engineer-wroclaw-testing
+2025-02-24 06:36:56,949 - INFO - [Phase: Exploration at Depth 28] Saved: https://justjoin.it/job-offer/xtm-international-senior-qa-engineer-wroclaw-testing
+2025-02-24 06:37:00,029 - INFO - [Phase: Exploration at Depth 29] Visiting: https://justjoin.it/job-offer/pandadoc-qa-team-lead-web-marketing-warszawa-testing
+2025-02-24 06:37:03,852 - INFO - [Phase: Exploration at Depth 29] Saved: https://justjoin.it/job-offer/pandadoc-qa-team-lead-web-marketing-warszawa-testing
+2025-02-24 06:37:06,899 - INFO - [Phase: Exploration at Depth 30] Visiting: https://justjoin.it/job-offer/n-ix-senior-aqa-engineer-krakow-testing-080cfae8
+2025-02-24 06:37:10,672 - INFO - [Phase: Exploration at Depth 30] Saved: https://justjoin.it/job-offer/n-ix-senior-aqa-engineer-krakow-testing-080cfae8
+2025-02-24 06:37:13,710 - INFO - [Phase: Exploration at Depth 31] Visiting: https://justjoin.it/job-offer/7n-sap-test-manager-wroclaw-testing
+2025-02-24 06:37:17,447 - INFO - [Phase: Exploration at Depth 31] Saved: https://justjoin.it/job-offer/7n-sap-test-manager-wroclaw-testing
+2025-02-24 06:37:20,481 - INFO - [Phase: Exploration at Depth 32] Visiting: https://justjoin.it/job-offer/pandadoc-qa-team-lead-web-marketing-wroclaw-testing
+2025-02-24 06:37:24,465 - INFO - [Phase: Exploration at Depth 32] Saved: https://justjoin.it/job-offer/pandadoc-qa-team-lead-web-marketing-wroclaw-testing
+2025-02-24 06:37:27,511 - INFO - [Phase: Exploration at Depth 33] Visiting: https://justjoin.it/job-offer/team-up--senior-etl-tester--poznan-testing
+2025-02-24 06:37:31,462 - INFO - [Phase: Exploration at Depth 33] Saved: https://justjoin.it/job-offer/team-up--senior-etl-tester--poznan-testing
+2025-02-24 06:37:34,508 - INFO - [Phase: Exploration at Depth 33] Visiting: https://justjoin.it/job-offer/pandadoc-staff-software-developer-in-test-sdet--poznan-testing
+2025-02-24 06:37:38,265 - INFO - [Phase: Exploration at Depth 33] Saved: https://justjoin.it/job-offer/pandadoc-staff-software-developer-in-test-sdet--poznan-testing
+2025-02-24 06:37:41,293 - INFO - [Phase: Exploration at Depth 34] Visiting: https://justjoin.it/job-offer/smartbear-senior-qa-engineer---readyapi-wroclaw-testing
+2025-02-24 06:37:44,971 - INFO - [Phase: Exploration at Depth 34] Saved: https://justjoin.it/job-offer/smartbear-senior-qa-engineer---readyapi-wroclaw-testing
+2025-02-24 06:37:48,015 - INFO - [Phase: Exploration at Depth 35] Visiting: https://justjoin.it/job-offer/gr8-tech-senior-qa-engineer-for-brand-launch-team-gdansk-testing
+2025-02-24 06:37:51,842 - INFO - [Phase: Exploration at Depth 35] Saved: https://justjoin.it/job-offer/gr8-tech-senior-qa-engineer-for-brand-launch-team-gdansk-testing
+2025-02-24 06:37:54,874 - INFO - [Phase: Exploration at Depth 36] Visiting: https://justjoin.it/job-offer/acaisoft-quality-engineer-gdynia-testing
+2025-02-24 06:37:58,727 - INFO - [Phase: Exploration at Depth 36] Saved: https://justjoin.it/job-offer/acaisoft-quality-engineer-gdynia-testing
+2025-02-24 06:38:01,764 - INFO - [Phase: Exploration at Depth 37] Visiting: https://justjoin.it/job-offer/iteamly-qa-automation-engineer-javascript-cypress--krakow-testing
+2025-02-24 06:38:05,609 - INFO - [Phase: Exploration at Depth 37] Saved: https://justjoin.it/job-offer/iteamly-qa-automation-engineer-javascript-cypress--krakow-testing
+2025-02-24 06:38:08,657 - INFO - [Phase: Exploration at Depth 38] Visiting: https://justjoin.it/job-offer/nord-security-automation-qa-engineer-wroclaw-testing
+2025-02-24 06:38:12,359 - INFO - [Phase: Exploration at Depth 38] Saved: https://justjoin.it/job-offer/nord-security-automation-qa-engineer-wroclaw-testing
+2025-02-24 06:38:15,396 - INFO - [Phase: Exploration at Depth 39] Visiting: https://justjoin.it/job-offer/harvey-nash-technology-senior-qa-engineer-krakow-testing
+2025-02-24 06:38:19,248 - INFO - [Phase: Exploration at Depth 39] Saved: https://justjoin.it/job-offer/harvey-nash-technology-senior-qa-engineer-krakow-testing
+2025-02-24 06:38:22,290 - INFO - [Phase: Exploration at Depth 39] Visiting: https://justjoin.it/job-offer/7n-sap-test-manager-krakow-testing
+2025-02-24 06:38:26,031 - INFO - [Phase: Exploration at Depth 39] Saved: https://justjoin.it/job-offer/7n-sap-test-manager-krakow-testing
+2025-02-24 06:38:29,060 - INFO - [Phase: Exploration at Depth 38] Visiting: https://justjoin.it/job-offer/integral-services-senior-ios-qa-automation-engineer-warszawa-testing
+2025-02-24 06:38:32,724 - INFO - [Phase: Exploration at Depth 38] Saved: https://justjoin.it/job-offer/integral-services-senior-ios-qa-automation-engineer-warszawa-testing
+2025-02-24 06:38:35,764 - INFO - [Phase: Exploration at Depth 39] Visiting: https://justjoin.it/job-offer/altimetrik-poland-qa-automation-engineer-krakow-testing-fb914a57
+2025-02-24 06:38:39,463 - INFO - [Phase: Exploration at Depth 39] Saved: https://justjoin.it/job-offer/altimetrik-poland-qa-automation-engineer-krakow-testing-fb914a57
+2025-02-24 06:38:42,498 - INFO - [Phase: Exploration at Depth 40] Visiting: https://justjoin.it/job-offer/emagine-polska-test-engineer-krakow-testing
+2025-02-24 06:38:46,243 - INFO - [Phase: Exploration at Depth 40] Saved: https://justjoin.it/job-offer/emagine-polska-test-engineer-krakow-testing
+2025-02-24 06:38:49,275 - INFO - [Phase: Exploration at Depth 41] Visiting: https://justjoin.it/job-offer/nord-security-automation-qa-engineer-poznan-testing
+2025-02-24 06:38:52,959 - INFO - [Phase: Exploration at Depth 41] Saved: https://justjoin.it/job-offer/nord-security-automation-qa-engineer-poznan-testing
+2025-02-24 06:38:56,007 - INFO - [Phase: Exploration at Depth 42] Visiting: https://justjoin.it/job-offer/billennium-test-automation-engineer-finanse--lodz-testing
+2025-02-24 06:39:00,054 - INFO - [Phase: Exploration at Depth 42] Saved: https://justjoin.it/job-offer/billennium-test-automation-engineer-finanse--lodz-testing
+2025-02-24 06:39:03,078 - INFO - [Phase: Exploration at Depth 43] Visiting: https://justjoin.it/job-offer/pandadoc-staff-software-developer-in-test-sdet--wroclaw-testing
+2025-02-24 06:39:06,793 - INFO - [Phase: Exploration at Depth 43] Saved: https://justjoin.it/job-offer/pandadoc-staff-software-developer-in-test-sdet--wroclaw-testing
+2025-02-24 06:39:09,827 - INFO - [Phase: Exploration at Depth 44] Visiting: https://justjoin.it/job-offer/the-codest-software-qa-engineer-bydgoszcz-testing
+2025-02-24 06:39:14,244 - INFO - [Phase: Exploration at Depth 44] Saved: https://justjoin.it/job-offer/the-codest-software-qa-engineer-bydgoszcz-testing
+2025-02-24 06:39:17,287 - INFO - [Phase: Exploration at Depth 45] Visiting: https://justjoin.it/job-offer/britenet-senior-automation-tester-warszawa-testing
+2025-02-24 06:39:21,291 - INFO - [Phase: Exploration at Depth 45] Saved: https://justjoin.it/job-offer/britenet-senior-automation-tester-warszawa-testing
+2025-02-24 06:39:24,336 - INFO - [Phase: Exploration at Depth 45] Visiting: https://justjoin.it/job-offer/the-codest-software-qa-engineer-poznan-testing
+2025-02-24 06:39:28,696 - INFO - [Phase: Exploration at Depth 45] Saved: https://justjoin.it/job-offer/the-codest-software-qa-engineer-poznan-testing
+2025-02-24 06:39:31,737 - INFO - [Phase: Exploration at Depth 46] Visiting: https://justjoin.it/job-offer/nord-security-automation-qa-engineer-warszawa-testing
+2025-02-24 06:39:35,373 - INFO - [Phase: Exploration at Depth 46] Saved: https://justjoin.it/job-offer/nord-security-automation-qa-engineer-warszawa-testing
+2025-02-24 06:39:38,407 - INFO - [Phase: Exploration at Depth 46] Visiting: https://justjoin.it/job-offer/iteamly-qa-automation-engineer-javascript-cypress--wroclaw-testing
+2025-02-24 06:39:42,405 - INFO - [Phase: Exploration at Depth 46] Saved: https://justjoin.it/job-offer/iteamly-qa-automation-engineer-javascript-cypress--wroclaw-testing
+2025-02-24 06:39:45,457 - INFO - [Phase: Exploration at Depth 46] Visiting: https://justjoin.it/job-offer/altimetrik-poland-qa-automation-engineer-wroclaw-testing-ae0dbe51
+2025-02-24 06:39:49,445 - INFO - [Phase: Exploration at Depth 46] Saved: https://justjoin.it/job-offer/altimetrik-poland-qa-automation-engineer-wroclaw-testing-ae0dbe51
+2025-02-24 06:39:52,487 - INFO - [Phase: Exploration at Depth 45] Visiting: https://justjoin.it/job-offer/smartbear-senior-qa-engineer---readyapi-katowice-testing
+2025-02-24 06:39:56,287 - INFO - [Phase: Exploration at Depth 45] Saved: https://justjoin.it/job-offer/smartbear-senior-qa-engineer---readyapi-katowice-testing
+2025-02-24 06:39:59,320 - WARNING - [Phase: Exploration at Depth 42] Timeout for deeper exploration.
+2025-02-24 06:39:59,320 - WARNING - [Phase: Exploration at Depth 41] Timeout for deeper exploration.
+2025-02-24 06:39:59,321 - WARNING - [Phase: Exploration at Depth 40] Timeout for deeper exploration.
+2025-02-24 06:39:59,321 - WARNING - [Phase: Exploration at Depth 39] Timeout for deeper exploration.
+2025-02-24 06:39:59,321 - WARNING - [Phase: Exploration at Depth 38] Timeout for deeper exploration.
+2025-02-24 06:39:59,321 - WARNING - [Phase: Exploration at Depth 37] Timeout for deeper exploration.
+2025-02-24 06:39:59,321 - WARNING - [Phase: Exploration at Depth 36] Timeout for deeper exploration.
+2025-02-24 06:39:59,321 - WARNING - [Phase: Exploration at Depth 35] Timeout for deeper exploration.
+2025-02-24 06:39:59,322 - WARNING - [Phase: Exploration at Depth 34] Timeout for deeper exploration.
+2025-02-24 06:39:59,322 - WARNING - [Phase: Exploration at Depth 33] Timeout for deeper exploration.
+2025-02-24 06:39:59,322 - WARNING - [Phase: Exploration at Depth 32] Timeout for deeper exploration.
+2025-02-24 06:39:59,322 - WARNING - [Phase: Exploration at Depth 31] Timeout for deeper exploration.
+2025-02-24 06:39:59,322 - WARNING - [Phase: Exploration at Depth 30] Timeout for deeper exploration.
+2025-02-24 06:39:59,323 - WARNING - [Phase: Exploration at Depth 29] Timeout for deeper exploration.
+2025-02-24 06:39:59,323 - WARNING - [Phase: Exploration at Depth 28] Timeout for deeper exploration.
+2025-02-24 06:39:59,323 - WARNING - [Phase: Exploration at Depth 27] Timeout for deeper exploration.
+2025-02-24 06:39:59,323 - WARNING - [Phase: Exploration at Depth 26] Timeout for deeper exploration.
+2025-02-24 06:39:59,323 - WARNING - [Phase: Exploration at Depth 25] Timeout for deeper exploration.
+2025-02-24 06:39:59,324 - WARNING - [Phase: Exploration at Depth 24] Timeout for deeper exploration.
+2025-02-24 06:39:59,324 - WARNING - [Phase: Exploration at Depth 23] Timeout for deeper exploration.
+2025-02-24 06:39:59,324 - WARNING - [Phase: Exploration at Depth 22] Timeout for deeper exploration.
+2025-02-24 06:39:59,324 - WARNING - [Phase: Exploration at Depth 21] Timeout for deeper exploration.
+2025-02-24 06:39:59,325 - WARNING - [Phase: Exploration at Depth 20] Timeout for deeper exploration.
+2025-02-24 06:39:59,325 - WARNING - [Phase: Exploration at Depth 19] Timeout for deeper exploration.
+2025-02-24 06:39:59,325 - WARNING - [Phase: Exploration at Depth 18] Timeout for deeper exploration.
+2025-02-24 06:39:59,325 - WARNING - [Phase: Exploration at Depth 17] Timeout for deeper exploration.
+2025-02-24 06:39:59,325 - WARNING - [Phase: Exploration at Depth 16] Timeout for deeper exploration.
+2025-02-24 06:39:59,326 - WARNING - [Phase: Exploration at Depth 15] Timeout for deeper exploration.
+2025-02-24 06:39:59,326 - WARNING - [Phase: Exploration at Depth 14] Timeout for deeper exploration.
+2025-02-24 06:39:59,326 - WARNING - [Phase: Exploration at Depth 13] Timeout for deeper exploration.
+2025-02-24 06:39:59,326 - WARNING - [Phase: Exploration at Depth 12] Timeout for deeper exploration.
+2025-02-24 06:39:59,327 - WARNING - [Phase: Exploration at Depth 11] Timeout for deeper exploration.
+2025-02-24 06:39:59,327 - WARNING - [Phase: Exploration at Depth 10] Timeout for deeper exploration.
+2025-02-24 06:39:59,327 - WARNING - [Phase: Exploration at Depth 9] Timeout for deeper exploration.
+2025-02-24 06:39:59,328 - WARNING - [Phase: Exploration at Depth 8] Timeout for deeper exploration.
+2025-02-24 06:39:59,328 - WARNING - [Phase: Exploration at Depth 7] Timeout for deeper exploration.
+2025-02-24 06:39:59,329 - WARNING - [Phase: Exploration at Depth 6] Timeout for deeper exploration.
+2025-02-24 06:39:59,329 - WARNING - [Phase: Exploration at Depth 5] Timeout for deeper exploration.
+2025-02-24 06:39:59,329 - WARNING - [Phase: Exploration at Depth 4] Timeout for deeper exploration.
+2025-02-24 06:39:59,330 - WARNING - [Phase: Exploration at Depth 3] Timeout for deeper exploration.
+2025-02-24 06:39:59,330 - WARNING - [Phase: Exploration at Depth 2] Timeout for deeper exploration.
+2025-02-24 06:39:59,330 - WARNING - [Phase: Exploration at Depth 1] Timeout for deeper exploration.
+2025-02-24 06:39:59,330 - WARNING - [Phase: Exploration at Depth 0] Timeout for deeper exploration.
+2025-02-24 06:39:59,331 - INFO - [Phase: Exploration at Depth 0] Visiting: https://justjoin.it/job-offer/team-up--senior-etl-tester--warszawa-testing
+2025-02-24 06:40:03,223 - INFO - [Phase: Exploration at Depth 0] Saved: https://justjoin.it/job-offer/team-up--senior-etl-tester--warszawa-testing
+2025-02-24 06:40:06,258 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/ikonik-media-inc--qa-engineer-poznan-testing
+2025-02-24 06:40:10,288 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/ikonik-media-inc--qa-engineer-poznan-testing
+2025-02-24 06:40:13,304 - INFO - [Phase: Exploration at Depth 0] Visiting: https://justjoin.it/job-offer/billennium-starszy-tester-warszawa-testing
+2025-02-24 06:40:16,858 - INFO - [Phase: Exploration at Depth 0] Saved: https://justjoin.it/job-offer/billennium-starszy-tester-warszawa-testing
+2025-02-24 06:40:19,887 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/gr8-tech-senior-qa-engineer-for-brand-launch-team-warszawa-testing
+2025-02-24 06:40:23,526 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/gr8-tech-senior-qa-engineer-for-brand-launch-team-warszawa-testing
+2025-02-24 06:40:26,556 - INFO - [Phase: Exploration at Depth 0] Visiting: https://justjoin.it/job-offer/rits-professional-services-inzynier-ds-testow-niezawodnosciowych-warszawa-testing
+2025-02-24 06:40:30,352 - INFO - [Phase: Exploration at Depth 0] Saved: https://justjoin.it/job-offer/rits-professional-services-inzynier-ds-testow-niezawodnosciowych-warszawa-testing
+2025-02-24 06:40:33,372 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/humanit-group-software-tester-sdet-software-developer-engineer-in-test--warszawa-testing
+2025-02-24 06:40:37,129 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/humanit-group-software-tester-sdet-software-developer-engineer-in-test--warszawa-testing
+2025-02-24 06:40:40,158 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/experis-manpower-group-tester-automatyzujacy-warszawa-testing
+2025-02-24 06:40:44,240 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/experis-manpower-group-tester-automatyzujacy-warszawa-testing
+2025-02-24 06:40:47,270 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/soflab-technology-uipath-test-developer-warszawa-testing
+2025-02-24 06:40:51,207 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/soflab-technology-uipath-test-developer-warszawa-testing
+2025-02-24 06:40:54,235 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--warszawa-testing
+2025-02-24 06:40:57,958 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--warszawa-testing
+2025-02-24 06:41:00,984 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/polska-grupa-lotnicza-tester-sql-warszawa-testing
+2025-02-24 06:41:04,572 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/polska-grupa-lotnicza-tester-sql-warszawa-testing
+2025-02-24 06:41:07,599 - INFO - [Phase: Exploration at Depth 0] Visiting: https://justjoin.it/job-offer/emagine-polska-automation-tester-python-robot-framework--warszawa-testing
+2025-02-24 06:41:11,191 - INFO - [Phase: Exploration at Depth 0] Saved: https://justjoin.it/job-offer/emagine-polska-automation-tester-python-robot-framework--warszawa-testing
+2025-02-24 06:41:14,217 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/apzumi-qa-senior-specialist-warszawa-testing
+2025-02-24 06:41:17,905 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/apzumi-qa-senior-specialist-warszawa-testing
+2025-02-24 06:41:20,937 - INFO - [Phase: Exploration at Depth 2] Visiting: https://justjoin.it/job-offer/upvanta-sp-z-o-o--java-developer-test-automation-engineer-remote--katowice-testing
+2025-02-24 06:41:25,255 - INFO - [Phase: Exploration at Depth 2] Saved: https://justjoin.it/job-offer/upvanta-sp-z-o-o--java-developer-test-automation-engineer-remote--katowice-testing
+2025-02-24 06:41:28,282 - INFO - [Phase: Exploration at Depth 3] Visiting: https://justjoin.it/job-offer/ikonik-media-inc--qa-engineer-wroclaw-testing
+2025-02-24 06:41:32,301 - INFO - [Phase: Exploration at Depth 3] Saved: https://justjoin.it/job-offer/ikonik-media-inc--qa-engineer-wroclaw-testing
+2025-02-24 06:41:35,318 - INFO - [Phase: Exploration at Depth 3] Visiting: https://justjoin.it/job-offer/gr8-tech-senior-qa-engineer-for-brand-launch-team-rzeszow-testing
+2025-02-24 06:41:39,272 - INFO - [Phase: Exploration at Depth 3] Saved: https://justjoin.it/job-offer/gr8-tech-senior-qa-engineer-for-brand-launch-team-rzeszow-testing
+2025-02-24 06:41:42,300 - INFO - [Phase: Exploration at Depth 4] Visiting: https://justjoin.it/job-offer/billennium-qa-engineer-warszawa-testing
+2025-02-24 06:41:45,935 - INFO - [Phase: Exploration at Depth 4] Saved: https://justjoin.it/job-offer/billennium-qa-engineer-warszawa-testing
+2025-02-24 06:41:48,980 - INFO - [Phase: Exploration at Depth 5] Visiting: https://justjoin.it/job-offer/apzumi-qa-senior-specialist-poznan-testing
+2025-02-24 06:41:52,831 - INFO - [Phase: Exploration at Depth 5] Saved: https://justjoin.it/job-offer/apzumi-qa-senior-specialist-poznan-testing
+2025-02-24 06:41:55,849 - INFO - [Phase: Exploration at Depth 6] Visiting: https://justjoin.it/job-offer/xtm-international-senior-qa-engineer-gdansk-testing
+2025-02-24 06:41:59,540 - INFO - [Phase: Exploration at Depth 6] Saved: https://justjoin.it/job-offer/xtm-international-senior-qa-engineer-gdansk-testing
+2025-02-24 06:42:02,566 - INFO - [Phase: Exploration at Depth 6] Visiting: https://justjoin.it/job-offer/billennium-starszy-tester-krakow-testing
+2025-02-24 06:42:06,531 - INFO - [Phase: Exploration at Depth 6] Saved: https://justjoin.it/job-offer/billennium-starszy-tester-krakow-testing
+2025-02-24 06:42:09,549 - INFO - [Phase: Exploration at Depth 5] Visiting: https://justjoin.it/job-offer/gr8-tech-senior-qa-engineer-for-brand-launch-team-poland-remote--testing
+2025-02-24 06:42:13,485 - INFO - [Phase: Exploration at Depth 5] Saved: https://justjoin.it/job-offer/gr8-tech-senior-qa-engineer-for-brand-launch-team-poland-remote--testing
+2025-02-24 06:42:16,512 - INFO - [Phase: Exploration at Depth 6] Visiting: https://justjoin.it/job-offer/apzumi-qa-senior-specialist-gdansk-testing
+2025-02-24 06:42:20,270 - INFO - [Phase: Exploration at Depth 6] Saved: https://justjoin.it/job-offer/apzumi-qa-senior-specialist-gdansk-testing
+2025-02-24 06:42:23,299 - WARNING - [Phase: Exploration at Depth 1] Timeout for deeper exploration.
+2025-02-24 06:42:23,300 - WARNING - [Phase: Exploration at Depth 0] Timeout for deeper exploration.
+2025-02-24 06:42:23,300 - INFO - [Phase: Exploration at Depth 0] Visiting: https://justjoin.it/job-offer/xtm-international-senior-qa-engineer-warszawa-testing
+2025-02-24 06:42:26,967 - INFO - [Phase: Exploration at Depth 0] Saved: https://justjoin.it/job-offer/xtm-international-senior-qa-engineer-warszawa-testing
+2025-02-24 06:42:29,987 - INFO - [Phase: Exploration at Depth 0] Visiting: https://justjoin.it/job-offer/smartbear-qa-engineer---readyapi-warszawa-testing
+2025-02-24 06:42:33,951 - INFO - [Phase: Exploration at Depth 0] Saved: https://justjoin.it/job-offer/smartbear-qa-engineer---readyapi-warszawa-testing
+2025-02-24 06:42:36,984 - INFO - [Phase: Exploration at Depth 0] Visiting: https://justjoin.it/job-offer/amsterdam-standard-qa-automation-engineer-warszawa-testing
+2025-02-24 06:42:40,948 - INFO - [Phase: Exploration at Depth 0] Saved: https://justjoin.it/job-offer/amsterdam-standard-qa-automation-engineer-warszawa-testing
+2025-02-24 06:42:44,017 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--wroclaw-testing
+2025-02-24 06:42:47,751 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/closer-music-sp-z-o-o--quality-assurance-engineer-qa--wroclaw-testing
+2025-02-24 06:42:50,782 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/dataedo-qa-engineer-with-sql-poznan-testing-fa9d3888
+2025-02-24 06:42:54,465 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/dataedo-qa-engineer-with-sql-poznan-testing-fa9d3888
+2025-02-24 06:42:57,483 - INFO - [Phase: Exploration at Depth 2] Visiting: https://justjoin.it/job-offer/monogo-sp-z-o-o--automation-quality-assurance-specialist-warszawa-testing-68f0f192
+2025-02-24 06:43:01,171 - INFO - [Phase: Exploration at Depth 2] Saved: https://justjoin.it/job-offer/monogo-sp-z-o-o--automation-quality-assurance-specialist-warszawa-testing-68f0f192
+2025-02-24 06:43:04,467 - INFO - Scraped 150 jobs. Saving to CSV...
