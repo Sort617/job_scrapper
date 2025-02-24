@@ -1,8 +1,0 @@
-2025-02-24 03:17:18,227 - INFO - [Phase: Root Exploration] Starting root exploration
-2025-02-24 03:17:30,773 - INFO - [Phase: Exploration at Depth 0] Visiting: https://justjoin.it/job-offer/it-squad-tester-automatyczny-warszawa-testing
-2025-02-24 03:17:34,634 - INFO - [Phase: Exploration at Depth 0] Saved: https://justjoin.it/job-offer/it-squad-tester-automatyczny-warszawa-testing
-2025-02-24 03:17:37,697 - INFO - [Phase: Exploration at Depth 1] Visiting: https://justjoin.it/job-offer/mindpal-automated-qa-engineer-gliwice-testing
-2025-02-24 03:17:41,392 - INFO - [Phase: Exploration at Depth 1] Saved: https://justjoin.it/job-offer/mindpal-automated-qa-engineer-gliwice-testing
-2025-02-24 03:17:44,328 - ERROR - Future exception was never retrieved
-future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
-playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
